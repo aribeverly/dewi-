@@ -1,9 +1,5 @@
-.vagrant
-/cookbooks
+# Object file
+*.o
 
-# Bundler
-bin/*
-.bundle/*
-
-.kitchen/
-.kitchen.local.yml
+# Ada Library Information
+*.ali
